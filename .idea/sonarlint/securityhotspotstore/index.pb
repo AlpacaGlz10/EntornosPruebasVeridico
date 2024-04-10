@@ -13,3 +13,15 @@ a
 1src/main/java/MakigasJUnit5/catalogo/Pagable.java,5\4\54dfa62ab6af3cdca99e4a49ec03876c7406995b
 `
 0src/main/java/MakigasJUnit5/catalogo/Pedido.java,7\8\7853f8bd3cb37d15eaf5db68ccad6c386ec26dd5
+d
+4src/test/java/MakigasJUnit5/catalogo/PedidoTest.java,a\a\aacd3f02c3ec3fdf37e95f1194bfd5a4bdffbd02
+\
+,src/main/java/MakigasJUnit5/Calculadora.java,1\d\1db82c6be6fad3f549ddf19aaf47a0741b428895
+`
+0src/test/java/MakigasJUnit5/CalculadoraTest.java,0\e\0ed1018aa1e3702bc6c390640c5a2a4f50b37526
+c
+3src/main/java/MakigasJUnit5/SaliendoDeLaCrisis.java,4\2\42bdf1b15ef6f5499c0cfdf8ea91bf255c02ee4c
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0

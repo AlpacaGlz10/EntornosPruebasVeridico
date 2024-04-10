@@ -23,10 +23,12 @@ public class Pedido implements Carrito, Pagable{
     @Override
     public int total() {
         return this.productos.stream()
-                .map(Producto::getPrecio).reduce(0,Integer::sum);
+                .map(Producto::getPrecio)
+                .reduce(0, Integer::sum);
     }
+
     @Override
-    public void vaciar(){
+    public void vaciar() {
         productos.clear();
     }
 
