@@ -1,5 +1,5 @@
 package MakigasJUnit5;
-import org.junit.jupiter.api.DisplayName;
+import EjemplosSueltos.Calculadora;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
