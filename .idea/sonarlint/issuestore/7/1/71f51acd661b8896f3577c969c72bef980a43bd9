@@ -1,0 +1,6 @@
+
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(äÁ½Ä8¤©Ü¡ò1
+i
+java:S1871"LThis branch's code block is the same as the block for the branch on line 23.(¼æíå8ä¬Ü¡ò1
+D
+java:S1125!"'Remove the unnecessary boolean literal.( “´Ž8ç¬Ü¡ò1
